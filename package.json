@@ -1,0 +1,11 @@
+{
+  "name": "websocket-io-server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+		"start": "node hemain.js"
+  },
+  "dependencies": {
+		"websocket.io": "*"
+	}
+}
