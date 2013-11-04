@@ -1,4 +1,4 @@
-簡単な実装サンプル
+簡単な実装サンプル(client側)
 
 ```javascript
 // websocket接続
