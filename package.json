@@ -6,7 +6,6 @@
 		"start": "node hemain.js"
   },
   "dependencies": {
-		"websocket.io": "*",
-		"mongoose": "*"
+		"websocket.io": "*"
 	}
 }
